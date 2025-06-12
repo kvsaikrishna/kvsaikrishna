@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h2> Hi 👋 I'm Venkata Sai Krishna Kelam.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/venkata-sai-krishna-kelam/">
+    <a href="https://www.linkedin.com/in/venkata-sai-krishna-dev/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
